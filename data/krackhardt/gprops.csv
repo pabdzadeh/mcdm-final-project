@@ -1,0 +1,9 @@
+# prop_name, value
+name,high_tech_company
+description,"Multiplex network of 3 edge types representing relationships (advice, friendship, and “reports to”) between managers of a high-tech company.  Data hosted by Manlio De Domenico.[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['D. Krackhardt, \"Cognitive social structures\". Social Networks (1987), 9, 104-134., https://doi.org/10.1016/0378-8733(87)90009-8']"
+url,https://manliodedomenico.com/data.php
+upstream_license,"Open Data Commons Open Database License (ODbL), https://opendatacommons.org/licenses/odbl/"
+tags,"['Social', 'Offline', 'Multilayer', 'Unweighted']"
+layer_key,"{1: 'advice', 2: 'friendship', 3: 'Reports_to'}"

@@ -1,0 +1,7 @@
+# prop_name, value
+name,florentine_families
+description,Multiplex network with 2 edge types representing marriage alliances and business relationships between Florentine families during the Italian Renaissance.  Data hosted by Manlio De Domenico.
+citation,"['JF Padgett and CK Ansell, \"Robust Action and the Rise of the Medici, 1400-1434\". American journal of sociology, 1259-1319 (1993)., http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf']"
+url,https://comunelab.fbk.eu/data.php
+tags,"['Social', 'Relationships', 'Multilayer', 'Unweighted']"
+layer_key,"{1: 'marriage_alliances', 2: 'business'}"

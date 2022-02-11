@@ -1,0 +1,8 @@
+# prop_name, value
+name,law_firm
+description,"Multiplex network with 3 edge types representing relationships (coworkers, friendship, advice) between partners and associates of a corporate law firm.  Data hosted by Manlio De Domenico.[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['Emmanuel Lazega, \"The Collegial Phenomenon: The Social Mechanisms of Cooperation Among Peers in a Corporate Law Partnership\". Oxford University Press (2001), http://elazega.fr/wp-content/uploads/2012/10/Lazega-Collegial-Phenomenon-2001-Introduction.pdf']"
+url,https://manliodedomenico.com/data.php
+tags,"['Social', 'Offline', 'Multilayer', 'Unweighted']"
+layer_key,"{1: 'advice', 2: 'friendship', 3: 'co-work'}"

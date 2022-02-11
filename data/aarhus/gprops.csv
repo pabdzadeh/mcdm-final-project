@@ -1,0 +1,8 @@
+# prop_name, value
+name,cs_department
+description,"Multiplex network consisting of 5 edge types corresponding to online and offline relationships (Facebook, leisure, work, co-authorship, lunch) between employees of the Computer Science department at Aarhus.  Data hosted by Manlio De Domenico.[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['Matteo Magnani, Barbora Micenkova, and Luca Ross, \"Combinatorial Analysis of Multiple Networks.\" arXiv:1303.4986 (2013), http://arxiv.org/abs/1303.4986']"
+url,https://manliodedomenico.com/data.php
+tags,"['Social', 'Relationships', 'Multilayer', 'Unweighted']"
+layer_key,"{1: 'lunch', 2: 'facebook', 3: 'coauthor', 4: 'leisure', 5: 'work'}"
